@@ -1,0 +1,8 @@
+Checking files . . . 
+OK
+Uploading QuizCodes\adm ...done.
+Uploading QuizCodes\admg ...done.
+Uploading QuizCodes\adminad ...done.
+Uploading QuizCodes\adminad2 ...done.
+Query submitted.  Waiting for the server's response.
+http://moss.stanford.edu/results/970533280

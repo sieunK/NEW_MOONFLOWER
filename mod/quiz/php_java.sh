@@ -1,0 +1,1 @@
+"\Program Files\Portable\apache-maven-3.6.2\bin\mvn.cmd" sonar:sonar -Dsonar.projectKey=201924506 -Dsonar.host.url=http://localhost:9000 -Dsonar.login=91d36b7140749c4f719d4484f15d4f4098b4091b

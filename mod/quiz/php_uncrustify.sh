@@ -1,0 +1,1 @@
+'C:\Program Files\uncrustify\uncrustify.exe' -c 'C:\Program Files\uncrustify\cfg\gnu-indent.cfg' -f SRC_SUBMIT.C -o SRC_RESULT.C

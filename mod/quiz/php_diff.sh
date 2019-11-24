@@ -1,0 +1,1 @@
+'C:\Program Files (x86)\GnuWin32\bin\diff.exe' -f SRC_SUBMIT.C SRC_RESULT.C > DIFF.diff
