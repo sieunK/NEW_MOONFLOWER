@@ -13,7 +13,11 @@
 ## 참고한 내용
 * moodle (https://moodle.org/)
 * moodle bitnami stack (https://bitnami.com/stack/moodle)
-* code runner (https://github.com/trampgeek/moodle-qtype_coderunner)
+* Code Runner (https://github.com/trampgeek/moodle-qtype_coderunner)
+* All-or-Nothing Multi Choice(https://moodle.org/plugins/qtype_multichoiceset)
+* Sonar Qube(https://www.sonarqube.org/)
+* Cpp Check(http://cppcheck.sourceforge.net/ )
+* Uncrustify(https://github.com/uncrustify/uncrustify)
     
 ## 라이센스
-{MIT, LGPL, etc...}
+Apache License 2.0
